@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Tutorials](README.md)
-* [Literature Collection](docs.md)
+* Literature Collections
+  * [RNA Regulation](RNA.md)
+  * [Precision Medicine](MED.md)
+  * [Machine learning](AI.md)
 
