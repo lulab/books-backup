@@ -3,7 +3,7 @@
 {% hint style="warning" %}
 Notes for readers in mainland China:
 
-**You may need VPN/V2Ray to view the full function of gitbook.**
+**You may need VPN/V2Ray to view full function of the following Docs hosted by GitBook.**
 {% endhint %}
 
 ### Literature Collections
