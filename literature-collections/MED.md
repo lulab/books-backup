@@ -3,13 +3,7 @@
 > * [PDFs for Precision Medicine](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
 > * [Protocol, SOP and Technology](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
 
-**Table of Contents:**
-
-* TOC
-{:toc}
 ---
----
-
 
 
 ## 0. News of Liquid Biopsy 关于液体活检技术的科普
@@ -43,7 +37,6 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
-## — — —
 
 ## III. Sub-Directions of Liquid Biopsy
 
