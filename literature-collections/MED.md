@@ -40,22 +40,22 @@
 
 ## III. Sub-Directions of Liquid Biopsy
 
-### 1. Biomarker Panel Studies {#panel}
+## 1. Biomarker Panel Studies {#panel}
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
-#### 1.1 Meta-analysis Studies {#meta}
+### 1.1 Meta-analysis Studies {#meta}
 
 * **protein markers**: 2016 - Lancet Neurol - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
 * **DNA markers**: 2014 - Nat Genetics - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
 * **lncRNA markers**: 2005 - Cancer Res. - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
 
-#### 1.2 Detection and Early Diagnosis
+### 1.2 Detection and Early Diagnosis
 
 * **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
-#### 1.3 Prognosis Studies
+### 1.3 Prognosis Studies
 
 * **Progosis ctDNA**: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
 * **Prognosis ctDNA**: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
@@ -63,7 +63,7 @@
 * **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
 * **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
 
-#### 1.4 Patents
+### 1.4 Patents
 
 * 2019 - NBT - Recent patents in cancer detection
 
@@ -71,9 +71,9 @@
 
 
 
-### 2. exRNA/cfRNA Studies for Liquid Biopsy {#exRNA}
+## 2. exRNA/cfRNA Studies for Liquid Biopsy {#exRNA}
 
-#### 2.1 Representative papers
+### 2.1 Representative papers
 
 * **miRNA7**: JCO 2011 - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 * **long cfRNA-seq**: Clinical chemistry 2017 - Quake - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
@@ -83,7 +83,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
 
-#### 2.2 ERCC 2019 Cell papers
+### 2.2 ERCC 2019 Cell papers
 
 * **exceRpt**: Cell system 2019 - exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling
 * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
@@ -97,15 +97,15 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list)
 
-### 3. Other Technologies for Liquid Biopsy {#other}
+## 3. Other Technologies for Liquid Biopsy {#other}
 
-#### 3.1 ctDNA {#ctDNA}
+### 3.1 ctDNA {#ctDNA}
 
 * 2019 Nature Medicine - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
 
 >[PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list)
 
-#### 3.2 cfDNA Methylation
+### 3.2 cfDNA Methylation
 
 * **chips**: Nature 2018 - DNA methylation-based classification of central nervous system tumours 
 * **meDIP**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
@@ -115,17 +115,17 @@
 
 
 
-### 4. Wet-lab Technology Papers {#wetlab}
+## 4. Wet-lab Technology Papers {#wetlab}
 
-#### 4.0 FAQ
+### 4.0 FAQ
 
 * [FAQ](FAQ/)
 
-#### 4.1 Comparison of differnt liquid biopsy tech.
+### 4.1 Comparison of differnt liquid biopsy tech.
 
 * [Comparison table](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-#### 4.2 exRNA-seq technologies
+### 4.2 exRNA-seq technologies
 
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
@@ -138,7 +138,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
-#### 4.3 Commercial exRNA-seq library construction kit manual
+### 4.3 Commercial exRNA-seq library construction kit manual
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -151,9 +151,9 @@
 
 
 
-### 5. Dry-lab Technology Papers   {#drylab}
+## 5. Dry-lab Technology Papers   {#drylab}
 
-#### 5.1 Normalization and Batch correction
+### 5.1 Normalization and Batch correction
 
 * [Methods for Single Cell RNA-seq](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell&mode=list): imputation, normalization, clustering, etc
   * [Heterogeneity and Normalization](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Normalization%20and%20heterogeneity&mode=list)
@@ -165,17 +165,17 @@
 >
 > [Tutorial](https://lulab.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
-#### 5.2 Feature Selection and Network Approach
+### 5.2 Feature Selection and Network Approach
 
 * [Network approach for biomarker discovery](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20network&mode=list)
 * [Methods for Feature Selection](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20Feature%20Selection&mode=list)
 
-#### 5.3 Tumor Location
+### 5.3 Tumor Location
 
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20metagenomics&mode=list): tumor locator (tissue match), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20locator&mode=list): tumor locator (tissue match), etc
 
-#### 5.4 Cancer Immunology
+### 5.4 Cancer Immunology
 
 * 2019 - Nat Genetics - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
 * 2018 - Nat Biotech - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
@@ -183,6 +183,5 @@
 * 2016 - Nature Genetics - Landscape of tumor-infiltrating T cell repertoire of human cancers
 * 2018 - JCO - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
 
----
 
 
