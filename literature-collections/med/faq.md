@@ -51,6 +51,8 @@ The TSO is used differently in the Single Cell 3' assay compared to the Single C
 
 Single Cell 3' assay after reverse transcription:
 
+![](../../.gitbook/assets/TSO-3.png)
+
 Single Cell 5' assay after reverse transcription:
 
 Products: Single Cell 3', VDJ
@@ -87,4 +89,3 @@ Products: Single Cell 3', VDJ
 > Reference:
 
 * [Gu, W., Crawford, E. D., O’Donovan, B. D., Wilson, M. R., Chow, E. D., Retallack, H., & DeRisi, J. L. \(2016\). Depletion of Abundant Sequences by Hybridization \(DASH\): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications. Genome biology, 17\(1\), 41.](https://www.ncbi.nlm.nih.gov/pubmed/26944702)
-
