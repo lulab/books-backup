@@ -102,7 +102,7 @@
 
 #### 4.0 FAQ
 
-* [FAQ](https://github.com/lulab/docs/tree/25059eacdb1c12f4616df06cf022aa7bc9b322c5/literature-collections/FAQ/README.md)
+* [FAQ](faq.md)
 
 #### 4.1 Comparison of differnt liquid biopsy tech.
 
