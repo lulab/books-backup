@@ -1,6 +1,10 @@
-# RNA Regulation
+# Literature Colletion of RNA Regulation
+
+---
 
 > * [PDFs for RNA Regulation](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/)
+
+---
 
 ## Call mutation from RNA-seq data
 
@@ -8,24 +12,24 @@
 
 ## RBP-RNA interaction
 
-### Review
+**Reviews**
 
 * Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies. \(Annual Reviews, 2018\) 
 * A brave new world of RNA-binding proteins. \(Nature Reviews, 2018\)
 
-### Research
+**Research**
 
 * Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. \(Nature structural & molecular biology, 2013\)
 * Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. \(Genome Biology, 2017\)
 
 ## Alternative splicing
 
-### Review
+**Reviews**
 
 * Alternative splicing as a regulator of development and tissue identity. \(Nature Reviews, 2017\)
 * RNA mis-splicing in disease. \(Nature Reviews, 2015\)
 
-### Research
+**Research**
 
 * Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder. \(Science, 2018\)
 * An Arabidopsis PWI and RRM motif-containing protein is critical for pre-mRNA splicing and ABA responses. \(Nature communications, 2015\)
@@ -36,24 +40,24 @@
 
 ## Alternative polyadenylation
 
-### Review
+**Reviews**
 
 * Alternative polyadenylation of mRNA precursors. \(Nature Reviews, 2017\)
 * Alternative cleavage and polyadenylation: extent, regulation and function. \(Nature Reviews, 2013\)
 
-### Research
+**Research**
 
 * Dynamic analysis of alternative polyadenylation from RNA-seq reveal a 30-UTR landscape across seven tumour types. \(Nature communications, 2014\)
 * Cellular stress alters 3′UTR landscape through alternative polyadenylation and isoform-specific degradation. \(Nature communications, 2018\)
 
 ## RNA editing
 
-### Review
+**Review**
 
 * A-to-I RNA editing — immune protector and transcriptome diversifier. \(Nature Reviews, 2018\)
 * RNA editing-dependent epitranscriptome diversity in cancer stem cells. \(Nature Reviews, 2017\)
 
-### Research
+**Research**
 
 * Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. \(Genome Research, 2017\) 
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. \(Cancer cell, 2015\)
