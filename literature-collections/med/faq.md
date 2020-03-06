@@ -1,9 +1,5 @@
 # FAQ for Precision Medicine
 
-* TOC
-{:toc}
----
----
 ## General
 
 #### What is PBMC?
