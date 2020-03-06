@@ -1,4 +1,4 @@
-# Literature/Book Colletion of Machine learning & AI
+# Machine learning
 
 ## Literature
 

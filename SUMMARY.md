@@ -3,7 +3,7 @@
 * [Tutorials](README.md)
 * [Literature Collections](literature-collections/README.md)
   * [RNA Regulation](literature-collections/rna.md)
-  * [Precision Medicine](literature-collections/med.md)
-    * [FAQ](FAQ/README.md)
+  * [Precision Medicine](literature-collections/med/README.md)
+    * [FAQ](literature-collections/med/faq.md)
   * [Machine learning](literature-collections/ai.md)
 
