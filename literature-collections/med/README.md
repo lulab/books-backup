@@ -1,3 +1,7 @@
+---
+description: Literature Recommendations
+---
+
 # Precision Medicine
 
 > * [PDFs for Precision Medicine](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
@@ -6,10 +10,10 @@
 
 **关于液体活检技术的科普**
 
-* 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因： [wechat](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7)
+* 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因 \( [Wechat link](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7) \)
 * 开启肿瘤早筛新纪元，液态活检蓄势待发 \( [Everhub](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) \)
-* 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
-* **Patents:** 2019 - NBT - Recent patents in cancer detection
+* 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版 \( [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list) \)
+* **Patents:** 2019 - Nature Biotech. - Recent patents in cancer detection \( [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FPatents&mode=list) \)
 
 ## I. Reviews of Liquid Biopsy
 
@@ -32,7 +36,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
-## III. Sub-Directions
+## III. Sub-Directions of Liquid Biopsy
 
 ### 1. Biomarker Panel Studies <a id="panel"></a>
 
@@ -98,11 +102,9 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
 
-### 4. Wet-lab Technology <a id="wetlab"></a>
+### 4. Wet-lab Technologies for exRNA <a id="wetlab"></a>
 
-#### 4.0 FAQ
-
-* [FAQ](faq.md)
+#### 4.0 [FAQ](faq.md)
 
 #### 4.1 Comparison of differnt liquid biopsy tech.
 
@@ -132,19 +134,18 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
 
-### 5. Dry-lab Technology <a id="drylab"></a>
+### 5. Dry-lab Technologies for biomarker <a id="drylab"></a>
 
 #### 5.1 Normalization and Batch correction
 
 * [Methods for Single Cell RNA-seq](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell&mode=list): imputation, normalization, clustering, etc
   * [Heterogeneity and Normalization](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Normalization%20and%20heterogeneity&mode=list)
   * [Batch effect and confounder](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Batch%20effect%20and%20Confounder&mode=list)
+* Recommendations:
+  * 2017 - Nature Methods - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * 2019 - Nature Methods - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
 
-> 2017 - Nature Methods - Normalizing single-cell RNA sequencing data: challenges and opportunities
->
-> 2019 - Nature Methods - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
->
-> [Tutorial](https://lulab.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
+> [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
 #### 5.2 Feature Selection and Network Approach
 
@@ -156,7 +157,7 @@
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20metagenomics&mode=list): tumor locator \(tissue match\), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20locator&mode=list): tumor locator \(tissue match\), etc
 
-### 6. Cancer Immunology
+## IV. Cancer Immunology
 
 * 2019 - Nat Genetics - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
 * 2018 - Nat Biotech - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202

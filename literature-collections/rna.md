@@ -1,24 +1,12 @@
+---
+description: Literature Recommendations
+---
+
 # RNA Regulation
 
 > * [PDFs for RNA Regulation](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/)
 
-## Call mutation from RNA-seq data
-
-* RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
-
-## RBP-RNA interaction
-
-**Reviews**
-
-* Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies. \(Annual Reviews, 2018\) 
-* A brave new world of RNA-binding proteins. \(Nature Reviews, 2018\)
-
-**Research**
-
-* Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. \(Nature structural & molecular biology, 2013\)
-* Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. \(Genome Biology, 2017\)
-
-## Alternative splicing
+## AS: Alternative splicing
 
 **Reviews**
 
@@ -30,11 +18,13 @@
 * Transcriptome-wide isoform-level dysregulation in ASD, schizophrenia, and bipolar disorder. \(Science, 2018\)
 * An Arabidopsis PWI and RRM motif-containing protein is critical for pre-mRNA splicing and ABA responses. \(Nature communications, 2015\)
 
-## Splicing & Cancer
+### Splicing & Cancer
 
 [PDF](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
 
-## Alternative polyadenylation
+
+
+## APA: Alternative polyadenylation
 
 **Reviews**
 
@@ -45,6 +35,8 @@
 
 * Dynamic analysis of alternative polyadenylation from RNA-seq reveal a 30-UTR landscape across seven tumour types. \(Nature communications, 2014\)
 * Cellular stress alters 3′UTR landscape through alternative polyadenylation and isoform-specific degradation. \(Nature communications, 2018\)
+
+
 
 ## RNA editing
 
@@ -58,16 +50,34 @@
 * Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. \(Genome Research, 2017\) 
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. \(Cancer cell, 2015\)
 
-## RiboShape
+### Call DNA mutation from RNA-seq data
+
+* RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
+
+## CLIP-seq etc: RBP-RNA interaction
+
+**Reviews**
+
+* Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies. \(Annual Reviews, 2018\) 
+* A brave new world of RNA-binding proteins. \(Nature Reviews, 2018\)
+
+**Research**
+
+* Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. \(Nature structural & molecular biology, 2013\)
+* Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. \(Genome Biology, 2017\)
+
+## Ribo-seq
+
+关于RNA翻译（Ribo-seq）相关的文章我们收集的有： [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
+
+## Shape-seq
+
+关于RNA 二级结构高通量测序方法的文章我们收集的有：[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/RNA%20Probing%20Experiments&mode=list)
+
+### RiboShape
 
 * 2018 Zhang, Yan, et al. “A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation.” Molecular cell 70.2 \(2018\): 274-286.
 * 2018 Mustoe, Anthony M., et al. "Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing." Cell 173.1 \(2018\): 181-195.
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape%20-%20Favorites&mode=list)
->
-> More:
->
-> 关于RNA翻译（Ribo-seq）相关的文章我们收集的有： [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
->
-> 关于RNA 二级结构高通量测序方法的文章我们收集的有：[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/RNA%20Probing%20Experiments&mode=list)
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape%20-%20Favorites&mode=list)
 
