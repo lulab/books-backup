@@ -31,7 +31,9 @@ description: Literature Recommendations
 * **cfDNA Frag:**: Nature 2019 - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA**: Science 2018 - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-* **Platelet RNA**: Cancer Cell 2017 - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list)
+* **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
+  * 2015 Cancer Cell - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * 2017 Cancer Cell - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **exRNA Components**: 2017 Nature Communication - Coding and noncoding landscape of extracellular RNA
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
