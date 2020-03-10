@@ -6,6 +6,12 @@ description: Literature Recommendations
 
 > * [PDFs for RNA Regulation](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/)
 
+## Noncoding RNA & Cancer
+
+* [2020 Nature - PCAWG - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FNoncoding%20RNA%20and%20cancer%2F2020%20Nature%20-%20PCAWG%20-%20Analyses%20of%20non-coding%20somatic%20drivers%20in%202%2C658%20cancer%20whole%20genomes.pdf)
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FNoncoding%20RNA%20and%20cancer&mode=list)
+
 ## AS: Alternative splicing
 
 **Reviews**
@@ -20,9 +26,7 @@ description: Literature Recommendations
 
 ### Splicing & Cancer
 
-[PDF](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
-
-
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Splice%20and%20Cancer&mode=list)
 
 ## APA: Alternative polyadenylation
 
@@ -36,7 +40,7 @@ description: Literature Recommendations
 * Dynamic analysis of alternative polyadenylation from RNA-seq reveal a 30-UTR landscape across seven tumour types. \(Nature communications, 2014\)
 * Cellular stress alters 3′UTR landscape through alternative polyadenylation and isoform-specific degradation. \(Nature communications, 2018\)
 
-
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FAlternative%20polyadenylation&mode=list)
 
 ## RNA editing
 
@@ -50,29 +54,40 @@ description: Literature Recommendations
 * Systematic characterization of A-to-I RNA editing hotspots in microRNAs across human cancers. \(Genome Research, 2017\) 
 * The Genomic Landscape and Clinical Relevance of A-to-I RNA Editing in Human Cancers. \(Cancer cell, 2015\)
 
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRNA%20editing&mode=list)
+
 ### Call DNA mutation from RNA-seq data
 
 * RNA sequence analysis reveals macroscopic somatic clonal expansion across normal tissues \(Science, 2019\) 
 
-## CLIP-seq etc: RBP-RNA interaction
+## CLIP-seq etc
+
+Data about RBP-RNA interaction
 
 **Reviews**
 
-* Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies. \(Annual Reviews, 2018\) 
-* A brave new world of RNA-binding proteins. \(Nature Reviews, 2018\)
+* 2018 Nature Reviews - A brave new world of RNA-binding proteins
+* [2018 Mol Cell - Advances in CLIP Technologies for Studies of Protein-RNA Interactions.pdf](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FRBP-RNA%20interaction%2Freview%2F2018%20Mol%20Cell%20-%20Advances%20in%20CLIP%20Technologies%20for%20Studies%20of%20Protein-RNA%20Interactions.pdf)
+* 2018 Annual Reviews - Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies 
 
 **Research**
 
 * Rbfox proteins regulate alternative mRNA splicing through evolutionarily conserved RNA bridges. \(Nature structural & molecular biology, 2013\)
 * Identification of high-confidence RNA regulatory elements by combinatorial classification of RNA-protein binding sites. \(Genome Biology, 2017\)
 
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FRBP-RNA%20interaction&mode=list)
+
 ## Ribo-seq
 
-关于RNA翻译（Ribo-seq）相关的文章我们收集的有： [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
+关于RNA翻译（Ribo-seq）
 
-## Shape-seq
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
 
-关于RNA 二级结构高通量测序方法的文章我们收集的有：[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/RNA%20Probing%20Experiments&mode=list)
+## Structure-seq
+
+关于RNA 二级结构高通量测序方法
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/RNA%20Probing%20Experiments&mode=list)
 
 ### RiboShape
 
@@ -80,4 +95,10 @@ description: Literature Recommendations
 * 2018 Mustoe, Anthony M., et al. "Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing." Cell 173.1 \(2018\): 181-195.
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape%20-%20Favorites&mode=list)
+
+## Quantum Biology
+
+* [2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FQuantum%20Biology%2FQuantum%20coherence%20in%20photosynthesis%20for%20efficient%20solar-energy%20conversion.pdf)
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FQuantum%20Biology&mode=list)
 
