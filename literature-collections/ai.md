@@ -21,7 +21,7 @@ description: Literature and Book Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
 
-## 2. Deep Learning on RNA Sequences
+## 2. Deep Learning on RNA
 
 * **AS of RNA**: 2019 Cell - Predicting Splicing from Primary Sequence with Deep Learning
 * **AS of RNA \(DARTS**\): 2019 Nature Methods - Deep-learning augmented RNA-seq analysis of transcript splicing
