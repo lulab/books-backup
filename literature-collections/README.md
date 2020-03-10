@@ -3,8 +3,7 @@
 ## Literature Collections
 
 * [RNA Regulation](rna.md)
-* [Precision Medicine](med/)
-  * [FAQ](med/faq.md)
+* [Precision Medicine](med.md)
 * [Machine Learning & AI](ai.md)
 
 

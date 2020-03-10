@@ -107,7 +107,7 @@ description: Literature Recommendations
 
 ### 4. Wet-lab Technologies for exRNA <a id="wetlab"></a>
 
-#### 4.0 [FAQ](faq.md)
+#### 4.0 [FAQ]()
 
 #### 4.1 Comparison of differnt liquid biopsy tech.
 
