@@ -2,16 +2,80 @@
 description: Literature and Book Recommendations
 ---
 
-# Machine learning
+# Machine learning & AI
 
-## Literature
+## 0. Courses & Books 
 
-* [Startup](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
-* [More](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/)
-
-## Course & Books
-
-* **Course:** _Machine Learning_ \(CS229\) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning), [网易公开课](http://open.163.com/special/opencourse/machinelearning.html)
-* **Book:**《机器学习》-- 周志华 \([link](https://book.douban.com/subject/26708119/)\)
+* **Courses:** 
+  * Machine Learning \(CS229\) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)
+* **Books**
+  * **Probabilistic Models** \(HMM & SCFG\): 《[Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/):Probabilistic Models of Proteins and Nucleic Acids》 \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\) by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_
+  * **Macine Leanring :**《机器学习》-- 周志华 \([link](https://book.douban.com/subject/26708119/)\)
 * **More**: [更多书籍课程推荐](https://lulab1.gitbook.io/training/appendix/appendix-i.keep-learning)
+
+## 1. Startup of Literature Reading
+
+* **Deep Learning**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* **Cancer Locator**:  2017 Genome Biology - CancerLocator: non-invasive cancerdiagnosis and tissue-of-origin predictionusing methylation profiles of cell-free DNA
+* **Batch correction**: 2018 Nature Biotechnology - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
+
+## 2. RNA Structure
+
+### 2.1 RNA Secondary Structure Prediction
+
+1. **Dynamic Programming Method \(Energy Model\):** RNAstructure/RNAfold
+2. **SCFG Method:** Rfam
+3. **Deep Learning Method**: 2019 Nature Commn - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
+
+### 2.2 Structural Motif Finder
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
+
+## 3. Deep Learning on RNA
+
+* **AS of RNA**: 2019 Cell - Predicting Splicing from Primary Sequence with Deep Learning
+* **AS of RNA \(DARTS**\): 2019 NMETH -  - Deep-learning augmented RNA-seq analysis of transcript splicing
+* **APA of RNA**: 2019 Cell - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
+* **RNA/DNA-Protein Binding \(DeepBind\)**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* RNA secondary structure: 
+  * Deepfold: [https://cloud.tsinghua.edu.cn/f/05d3df1e398a49ed9f8d/](https://cloud.tsinghua.edu.cn/f/05d3df1e398a49ed9f8d/)
+  * SPOT-RNA:  \([https://www.nature.com/articles/s41467-019-13395-9](https://www.nature.com/articles/s41467-019-13395-9)\)
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20for%20DNA%20and%20RNA&mode=list)
+
+## 4. Comp. Tech. for Liquid Biopsy
+
+### 4.1 Normalization and Batch Correction
+
+* **Methods for Single Cell RNA-seq**: imputation, normalization, clustering, etc
+  * Heterogeneity and Normalization
+  * Batch effect and confounder
+* **Recommendations**:
+  * 2017 - Nature Methods - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * 2019 - Nature Methods - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
+
+> [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20single%20cell&mode=list)
+>
+> [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
+
+### 4.2  Feature Selection Method
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20Feature%20Selection&mode=list)
+
+### 4.3 Network Approach
+
+* 2018 NCOMM - Pathway based subnetworks enable cross-disease biomarker discovery
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20Feature%20Selection&mode=list)
+
+### 4.4 Tumor Location Method
+
+* [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20metagenomics&mode=list): tumor locator \(tissue match\), ranking, etc
+* [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20locator&mode=list): tumor locator \(tissue match\), etc
+
+
 

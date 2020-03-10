@@ -4,5 +4,5 @@
 * [Literature Collections](literature-collections/README.md)
   * [RNA Regulation](literature-collections/rna.md)
   * [Precision Medicine](literature-collections/med.md)
-  * [Machine learning](literature-collections/ai.md)
+  * [Machine learning & AI](literature-collections/ai.md)
 

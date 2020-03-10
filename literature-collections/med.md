@@ -39,7 +39,7 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
-## III. Sub-Directions of Liquid Biopsy
+## III. Detailed Studies of Liquid Biopsy
 
 ### 1. Biomarker Panel Studies <a id="panel"></a>
 
@@ -89,31 +89,13 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list)
 
-### 3. Other Technologies for Liquid Biopsy <a id="other"></a>
+### 3. exRNA-seq Technologies <a id="wetlab"></a>
 
-#### 3.1 ctDNA <a id="ctDNA"></a>
-
-* 2019 Nature Medicine - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list)
-
-#### 3.2 cfDNA Methylation
-
-* **chips**: Nature 2018 - DNA methylation-based classification of central nervous system tumours
-* **meDIP**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **WGBS**: Nature Genetics 2017 - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
-
-### 4. Wet-lab Technologies for exRNA <a id="wetlab"></a>
-
-#### 4.0 [FAQ]()
-
-#### 4.1 Comparison of differnt liquid biopsy tech.
+#### 3.1 Comparison of differnt liquid biopsy tech.
 
 * [Comparison table](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
 
-#### 4.2 exRNA-seq technologies
+#### 3.2 exRNA-seq technologies
 
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
@@ -126,7 +108,7 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
-#### 4.3 Commercial exRNA-seq library construction kit manual
+#### 3.3 Commercial exRNA-seq library construction kit manual
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -137,28 +119,23 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
 
-### 5. Dry-lab Technologies for biomarker <a id="drylab"></a>
+###  <a id="drylab"></a>
 
-#### 5.1 Normalization and Batch correction
+### 4. ctDNA <a id="other"></a>
 
-* [Methods for Single Cell RNA-seq](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell&mode=list): imputation, normalization, clustering, etc
-  * [Heterogeneity and Normalization](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Normalization%20and%20heterogeneity&mode=list)
-  * [Batch effect and confounder](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Batch%20effect%20and%20Confounder&mode=list)
-* Recommendations:
-  * 2017 - Nature Methods - Normalizing single-cell RNA sequencing data: challenges and opportunities
-  * 2019 - Nature Methods - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
+#### 4.1 ctDNA Mutations/Fragments <a id="ctDNA"></a>
 
-> [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
+* 2019 Nature Medicine - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
 
-#### 5.2 Feature Selection and Network Approach
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list)
 
-* [Network approach for biomarker discovery](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20network&mode=list)
-* [Methods for Feature Selection](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20Feature%20Selection&mode=list)
+#### 4.2 cfDNA Methylation
 
-#### 5.3 Tumor Location
+* **chips**: Nature 2018 - DNA methylation-based classification of central nervous system tumours
+* **meDIP**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **WGBS**: Nature Genetics 2017 - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 
-* [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20metagenomics&mode=list): tumor locator \(tissue match\), ranking, etc
-* [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20locator&mode=list): tumor locator \(tissue match\), etc
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
 
 ## IV. Cancer Immunology
 
