@@ -21,9 +21,20 @@ description: Literature and Book Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
 
-## 2. RNA Structure
+## 2. Deep Learning on RNA Sequences
 
-### 2.1 RNA Secondary Structure Prediction
+* **AS of RNA**: 2019 Cell - Predicting Splicing from Primary Sequence with Deep Learning
+* **AS of RNA \(DARTS**\): 2019 NMETH -  - Deep-learning augmented RNA-seq analysis of transcript splicing
+* **APA of RNA**: 2019 Cell - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
+* **RNA/DNA-Protein Binding \(DeepBind\)**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
+* **RNA secondary structure**: see [below](ai.md#3-1-rna-secondary-structure-prediction)
+* **Cancer prediction using exRNA-seq**: see [below](ai.md#4-5-transfer-learning)
+
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20RNA&mode=list)
+
+## 3. RNA Structure
+
+### 3.1 RNA Secondary Structure Prediction
 
 1. **Dynamic Programming Method \(Energy Model\):** RNAstructure/RNAfold
 2. **SCFG Method:** Rfam
@@ -31,20 +42,11 @@ description: Literature and Book Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
-### 2.2 Structural Motif Finder
+### 3.2 Structural Motif Finder
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
 
-## 3. Deep Learning on RNA Sequences
-
-* **AS of RNA**: 2019 Cell - Predicting Splicing from Primary Sequence with Deep Learning
-* **AS of RNA \(DARTS**\): 2019 NMETH -  - Deep-learning augmented RNA-seq analysis of transcript splicing
-* **APA of RNA**: 2019 Cell - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
-* **RNA/DNA-Protein Binding \(DeepBind\)**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
-* **RNA secondary structure**: see [above](ai.md#2-1-rna-secondary-structure-prediction)
-* **Cancer prediction using exRNA-seq**: see [below](ai.md#4-5-transfer-learning)
-
-[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20RNA&mode=list)
+## 
 
 ## 4. Comp. Methods for Liquid Biopsy
 
