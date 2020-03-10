@@ -35,15 +35,13 @@ description: Literature and Book Recommendations
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
 
-## 3. Deep Learning on RNA
+## 3. Deep Learning on RNA Sequences
 
 * **AS of RNA**: 2019 Cell - Predicting Splicing from Primary Sequence with Deep Learning
 * **AS of RNA \(DARTS**\): 2019 NMETH -  - Deep-learning augmented RNA-seq analysis of transcript splicing
 * **APA of RNA**: 2019 Cell - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
 * **RNA/DNA-Protein Binding \(DeepBind\)**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
-* RNA secondary structure: 
-  * Deepfold: [https://cloud.tsinghua.edu.cn/f/05d3df1e398a49ed9f8d/](https://cloud.tsinghua.edu.cn/f/05d3df1e398a49ed9f8d/)
-  * SPOT-RNA:  \([https://www.nature.com/articles/s41467-019-13395-9](https://www.nature.com/articles/s41467-019-13395-9)\)
+* **RNA secondary structure**: see [above](ai.md#2-1-rna-secondary-structure-prediction)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20for%20DNA%20and%20RNA&mode=list)
 
@@ -76,6 +74,8 @@ description: Literature and Book Recommendations
 
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20metagenomics&mode=list): tumor locator \(tissue match\), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20locator&mode=list): tumor locator \(tissue match\), etc
+
+### 4.5 迁移学习
 
 
 
