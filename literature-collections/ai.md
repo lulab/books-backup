@@ -42,7 +42,7 @@ description: Literature and Book Recommendations
 * **APA of RNA**: 2019 Cell - A Deep Neural Network for Predicting and Engineering Alternative Polyadenylation
 * **RNA/DNA-Protein Binding \(DeepBind\)**: 2015 NBT - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 * **RNA secondary structure**: see [above](ai.md#2-1-rna-secondary-structure-prediction)
-* **Cancer prediction using exRNA-seq**: see [below](ai.md#45-qian-yi-xue-xi)
+* **Cancer prediction using exRNA-seq**: see [below](ai.md#4-5-transfer-learning)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FDeep%20Learning%20on%20RNA&mode=list)
 
