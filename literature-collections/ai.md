@@ -38,7 +38,9 @@ description: Literature and Book Recommendations
 
 1. **Energy Model:** RNAstructure/Mfold and RNAfold \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
 2. **SCFG Model:** Rfam \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
-3. **Deep Learning Method** \(transfer learning\): 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  
+3. **Deep Learning Method** 
+   1. [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
+   2. \(Transfer learning\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
