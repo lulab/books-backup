@@ -16,7 +16,7 @@ description: Literature and Book Recommendations
 ## 1. Startup of Literature Reading
 
 * **Deep Learning**: 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
-* **Cancer Locator**:  2017 _Genome Biology_ - CancerLocator: non-invasive cancerdiagnosis and tissue-of-origin predictionusing methylation profiles of cell-free DNA
+* **Cancer Locator**:  2017 _Genome Biology_ - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
 * **Batch correction**: 2018 _Nature Biotech._ - Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
@@ -36,8 +36,8 @@ description: Literature and Book Recommendations
 
 ### 3.1 RNA Secondary Structure Prediction
 
-1. **Energy Model:** RNAstructure/RNAfold \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/)\)
-2. **SCFG Model:** Rfam \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/)\)
+1. **Energy Model:** RNAstructure/Mfold and RNAfold \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
+2. **SCFG Model:** Rfam \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
 3. **Deep Learning Method**: 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
