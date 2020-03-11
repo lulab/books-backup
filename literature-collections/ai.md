@@ -4,16 +4,7 @@ description: Literature and Book Recommendations
 
 # Machine learning & AI
 
-## 0. Courses & Books 
-
-* **Courses:** 
-  * Machine Learning \(CS229\) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)
-* **Books**
-  * **Probabilistic Model** \(HMM & SCFG\): 《[Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/):Probabilistic Models of Proteins and Nucleic Acids》 \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\) by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_
-  * **Macine Leanring :**《机器学习》-- 周志华 \([link](https://book.douban.com/subject/26708119/)\)
-* **More**: [更多书籍课程推荐](https://lulab1.gitbook.io/training/appendix/appendix-i.keep-learning)
-
-## 1. Startup of Literature Reading
+## 1. **Startup of Literature Reading**
 
 * **Deep Learning**: 2015 _Nature Biotech._ - DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning
 * **Cancer Locator**:  2017 _Genome Biology_ - CancerLocator: non-invasive cancer diagnosis and tissue-of-origin prediction using methylation profiles of cell-free DNA
@@ -22,6 +13,9 @@ description: Literature and Book Recommendations
 [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/AI%20%26%20Machine%20Learning&mode=list)
 
 ## 2. Deep Learning on RNA
+
+> * **Course:**  Machine Learning \(CS229\) -- Andrew Ng : [coursera](https://www.coursera.org/learn/machine-learning)\*\*\*\*
+> * **Book:    《**机器学习》-- 周志华 \([link](https://book.douban.com/subject/26708119/)\)  \([更多书籍课程推荐](https://lulab1.gitbook.io/training/appendix/appendix-i.keep-learning)\)
 
 * **AS of RNA**: 2019 _Cell_ - Predicting Splicing from Primary Sequence with Deep Learning
 * **AS of RNA \(DARTS**\): 2019 _Nature Methods_ - Deep-learning augmented RNA-seq analysis of transcript splicing
@@ -34,13 +28,19 @@ description: Literature and Book Recommendations
 
 ## 3. RNA Structure
 
+> * **Course**: [生物物理学（清华大学）](https://www.ncrnalab.org/courses/#biophysics) 
+> * **Book**:   《Biological Sequence Analysis: **Probabilistic Models** of Proteins and Nucleic Acids》by _Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison_  \([English](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) \| [中文](http://www.amazon.cn/dp/B003ZUIRZ2)\)
+
 ### 3.1 RNA Secondary Structure Prediction
 
-1. **Energy Model:** RNAstructure/Mfold and RNAfold \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
-2. **SCFG Model:** Rfam \(see more in Probabilistic Model [book above](ai.md#0-courses-and-books) and my [Biophysics course](https://www.ncrnalab.org/courses/biophysics)\)
-3. **Deep Learning Method** 
-   1. [2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
-   2. \(Transfer learning\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  
+* **Energy Model** \(RNAstructure/Mfold and RNAfold\)
+  * How do RNA folding algorithms work? \(Sean R Eddy\) 2004 doi: [10.1038/nbt1104-1457](http://dx.doi.org/10.1038/nbt1104-1457)
+  * What is dynamic programming? \(Sean R Eddy\) 2004 doi: [10.1038/nbt0704-909](http://dx.doi.org/10.1038/nbt0704-909)\*\*\*\*
+* **SCFG Model** \(Rfam\)
+  * What is a hidden Markov model? \(Sean R Eddy\) 2004 doi: [10.1038/nbt1004-1315](http://dx.doi.org/10.1038/nbt1004-1315)\*\*\*\*
+* **Deep Learning Method**
+  * \*\*\*\*[2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
+  * \(Transfer learning\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
