@@ -46,11 +46,12 @@ description: Literature and Book Recommendations
 
 ### 3.2 Structural Motif Finder
 
-* RNApromo
-* TAISER
-* CMfinder
-* Rfam
-* with Shape Genome Biology
+* **SCFG: Rfam** [https://rfam.xfam.org/](https://rfam.xfam.org/)
+  * **SCFG**: CMfinder - 2006 _Bioinformatics_ [https://www.ncbi.nlm.nih.gov/pubmed/16357030](https://www.ncbi.nlm.nih.gov/pubmed/16357030)
+  * **SCFG**: RNApromo - 2008 _PNAS_ [https://www.ncbi.nlm.nih.gov/pubmed/18815376](https://www.ncbi.nlm.nih.gov/pubmed/18815376)\*\*\*\*
+  * **CFG:** TEISER - 2012 _Nature_  [https://www.ncbi.nlm.nih.gov/pubmed/22495308](https://www.ncbi.nlm.nih.gov/pubmed/22495308)
+* **GraphPlot** - 2014 _Genome Biology_ [https://www.ncbi.nlm.nih.gov/pubmed/24451197](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
+* **SHAPE+HMM**:  PATTERNA - 2018 _Genome Biology_ [https://www.ncbi.nlm.nih.gov/pubmed/29495968](https://www.ncbi.nlm.nih.gov/pubmed/29495968)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
 
