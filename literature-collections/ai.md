@@ -48,7 +48,7 @@ description: Literature and Book Recommendations
   * _You can read the SCFG section in the book_ [_above_](ai.md#3-1-rna-secondary-structure-prediction)_. \(Need a short tutorial for SCFG.\)_
 * **Deep Learning Method**
   * \*\*\*\*[2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
-  * \(Transfer learning\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
+  * \(**Transfer learning**\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
 [PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
@@ -96,7 +96,7 @@ description: Literature and Book Recommendations
 ### 4.5 Transfer Learning
 
 * 2020 _Bioinformatics_ - Exploiting transfer learning for the reconstruction of the human gene regulatory network
-* 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning  \(see this PDF from [above](ai.md#3-1-rna-secondary-structure-prediction)\)
+* \(see another example of transfer learning in SPOT-RNA [above](ai.md#3-1-rna-secondary-structure-prediction)\)
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FTransfer%20Learning&mode=list)
 
