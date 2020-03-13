@@ -1,5 +1,5 @@
 ---
-description: Literature and Book Recommendations
+description: 'Literature, Course and Book Recommendations'
 ---
 
 # Machine learning & AI
