@@ -97,7 +97,7 @@ Data about RBP-RNA interaction
 * Pipeline:
   *  ? [RiboStreamR](https://www.ncbi.nlm.nih.gov/pubmed/31167636): _2019 BMC Genomics_
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
+[PDFs and PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
 
 ## Structure-seq
 
