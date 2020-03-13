@@ -87,6 +87,16 @@ Data about RBP-RNA interaction
 
 关于RNA翻译（Ribo-seq）
 
+* ORF finding: 
+  * [RiboCode](https://www.ncbi.nlm.nih.gov/pubmed/29538776): 2018 _NAR_
+  * [RiboWave](https://www.ncbi.nlm.nih.gov/pubmed/29945224): 2018 _NAR_
+  * [RiboTaper](https://www.ncbi.nlm.nih.gov/pubmed/26657557): 2016 _Nature Methods_
+* Translation Efficiency
+  * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_ 
+  * ? [deltaTE](https://www.ncbi.nlm.nih.gov/pubmed/31763789):  2019 _Curr Protoc Mol Biol._
+* Pipeline:
+  *  ? [RiboStreamR](https://www.ncbi.nlm.nih.gov/pubmed/31167636): _2019 BMC Genomics_
+
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
 
 ## Structure-seq

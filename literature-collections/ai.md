@@ -33,27 +33,35 @@ description: Literature and Book Recommendations
 
 ### 3.1 RNA Secondary Structure Prediction
 
-* **Energy Model** \(RNAstructure/Mfold and RNAfold\)
-  * How do RNA folding algorithms work? \(Sean R Eddy\) 2004 doi: [10.1038/nbt1104-1457](http://dx.doi.org/10.1038/nbt1104-1457)
-  * What is dynamic programming? \(Sean R Eddy\) 2004 doi: [10.1038/nbt0704-909](http://dx.doi.org/10.1038/nbt0704-909)\*\*\*\*
-* **SCFG Model** \(Rfam\)
-  * What is a hidden Markov model? \(Sean R Eddy\) 2004 doi: [10.1038/nbt1004-1315](http://dx.doi.org/10.1038/nbt1004-1315)\*\*\*\*
+* **Energy Model** 
+  * **RNAstructure/Mfold**  and **RNAfold** 
+    * How do RNA folding algorithms work? \(Sean R Eddy\) [2004 _Nature Biotech_](https://www.nature.com/articles/nbt1104-1457) 
+    * What is dynamic programming? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt0704-909)\_\_
+  * **SuperFold** for long distance base pairs \(folding\)  [2014 _Nature Methods_](https://www.ncbi.nlm.nih.gov/pubmed/25028896)\_\_
+
+> **RNAstructure**/**Mfold**  and **RNAfold** perform good for sequence less than 200nt.
+>
+> **SuperFold** uses partition in RNAstructure package to predict partition functions for subsequences of long RNA, then merge the results. Therefore, it claims to perform better on long distance base pairs.
+
+* **SCFG Model** \(Rfam/Infernal\)
+  * What is a hidden Markov model? \(Sean R Eddy\) [2004 _Nature Biotech_](http://dx.doi.org/10.1038/nbt1004-1315) 
+  * _You can read the SCFG section in the book_ [_above_](ai.md#3-1-rna-secondary-structure-prediction)_. \(Need a short tutorial for SCFG.\)_
 * **Deep Learning Method**
   * \*\*\*\*[2020 ICLR](https://openreview.net/forum?id=S1eALyrYDH) - RNA Secondary Structure Prediction By Learning Unrolled Algorithms \([Chinese comments](https://mp.weixin.qq.com/s/SSFOJfljhRZuOOTErNefig)\)
   * \(Transfer learning\) 2019 _Nature Commn._ - SPOT-RNA: RNA secondary structure prediction using an ensemble of two-dimensional deep neural networks and transfer learning
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
+[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20secondary%20structure%20prediction&mode=list)
 
 ### 3.2 Structural Motif Finder
 
-* **SCFG \( Rfam** [https://rfam.xfam.org/](https://rfam.xfam.org/) \)
+* **SCFG \( Rfam/Infernal** [https://rfam.xfam.org/](https://rfam.xfam.org/) \)
   * **SCFG**: CMfinder - [2006 _Bioinformatics_](https://www.ncbi.nlm.nih.gov/pubmed/16357030) 
   * **SCFG**: RNApromo - [2008 _PNAS_ ](https://www.ncbi.nlm.nih.gov/pubmed/18815376)
   * **CFG:** TEISER - [2012 _Nature_](https://www.ncbi.nlm.nih.gov/pubmed/22495308)  
 * **Graph Kernel:** GraphProt - [2014 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/24451197)
 * **SHAPE+HMM**:  PATTERNA - [2018 _Genome Biology_ ](https://www.ncbi.nlm.nih.gov/pubmed/29495968)
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list)
+[PDFs & PPTs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2FRNA%20Structural%20Motif&mode=list) 
 
 ## 4. Comp. Methods for Liquid Biopsy
 
