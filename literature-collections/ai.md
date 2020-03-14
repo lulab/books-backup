@@ -92,6 +92,7 @@ description: 'Literature, Course and Book Recommendations'
 
 ### 4.3 Network Approach and Clustering
 
+* 2020 _Bioinformatics_ - Deeptype - Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data
 * 2018 _Nature COMMN._ - Pathway based subnetworks enable cross-disease biomarker discovery
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20network%20and%20clustering&mode=list)
