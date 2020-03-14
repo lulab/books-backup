@@ -28,8 +28,9 @@ description: Literature Recommendations
 
 ## II. Representative Studies of Liquid Biopsy
 
+* **mbDNA \(**Microbiome of cfDNA\): 2020 Nature - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+* **cfDNA Fragment size**: 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA+Protein**: 2018 Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **cfDNA Frag:**: 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**: 2018 Nature - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
 * **cfRNA/exRNA**: 2018 Science - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  

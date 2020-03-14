@@ -68,11 +68,13 @@ description: 'Literature, Course and Book Recommendations'
 ### 4.1 Normalization and Batch Correction
 
 * **Methods for Single Cell RNA-seq**: imputation, normalization, clustering, etc
+  * Dropout and Sparseness
   * Heterogeneity and Normalization
-  * Batch effect and confounder
+  * Batch effect and Confounder
 * **Recommendations**:
-  * 2017 - _Nature Methods_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
+  * 2020 _Nature COMMN_ - Embracing the **dropouts** in single-cell RNA-seq analysis
   * 2019 - _Nature Methods_ - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
+  * 2017 - _Nature Methods_ - Normalizing single-cell RNA sequencing data: challenges and opportunities
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20single%20cell&mode=list)
 >
