@@ -65,12 +65,13 @@ description: 'Literature, Course and Book Recommendations'
 
 ## 4. Comp. Methods for Liquid Biopsy
 
-### 4.1 Normalization and Batch Correction
+### 4.1 Imputation, Normalization and Batch Correction
 
-* **Methods for Single Cell RNA-seq**: imputation, normalization, clustering, etc
-  * Dropout and Sparseness
-  * Heterogeneity and Normalization
-  * Batch effect and Confounder
+* **Methods for Single Cell RNA-seq** 
+  * \(1\) Dropout/Sparseness and Imputation
+  * \(2\) Heterogeneity and Normalization
+  * \(3\) Batch effect and Confounder
+  * \(Pseudo-time and Others\)
 * **Recommendations**:
   * 2020 _Nature COMMN_ - Embracing the **dropouts** in single-cell RNA-seq analysis
   * 2019 - _Nature Methods_ - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
@@ -78,17 +79,22 @@ description: 'Literature, Course and Book Recommendations'
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20single%20cell&mode=list)
 >
+> * \(1\) Dropout/Sparseness and Imputation
+> * \(2\) Heterogeneity and Normalization
+> * \(3\) Batch effect and Confounder
+> * \(Pseudo-time and Others\)
+>
 > [Tutorial](https://lulab1.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
 ### 4.2  Feature Selection Method
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20Feature%20Selection&mode=list)
 
-### 4.3 Network Approach
+### 4.3 Network Approach and Clustering
 
 * 2018 _Nature COMMN._ - Pathway based subnetworks enable cross-disease biomarker discovery
 
-[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20Feature%20Selection&mode=list)
+[PDFs](https://cloud.tsinghua.edu.cn/d/9553a9a553304ff7b311/?p=%2Fmethod%20-%20network%20and%20clustering&mode=list)
 
 ### 4.4 Tumor Location Method
 
