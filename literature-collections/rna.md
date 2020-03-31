@@ -8,13 +8,13 @@ description: Literature Recommendations
 
 ## Noncoding RNA & Cancer
 
-* [2020 Nature - PCAWG - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FNoncoding%20RNA%20and%20cancer%2F2020%20Nature%20-%20PCAWG%20-%20Analyses%20of%20non-coding%20somatic%20drivers%20in%202%2C658%20cancer%20whole%20genomes.pdf)
+* 2020 Nature - PCAWG - Analyses of non-coding somatic drivers in 2,658 cancer whole genomes
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FNoncoding%20RNA%20and%20cancer&mode=list)
 
 ## Quantum Biology
 
-* [2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FQuantum%20Biology%2FQuantum%20coherence%20in%20photosynthesis%20for%20efficient%20solar-energy%20conversion.pdf)
+* 2014 Nature Physics - Quantum coherence in photosynthesis for efficient solar-energy conversion
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=%2FQuantum%20Biology&mode=list)
 
@@ -73,7 +73,7 @@ Data about RBP-RNA interaction
 **Reviews**
 
 * 2018 Nature Reviews - A brave new world of RNA-binding proteins
-* [2018 Mol Cell - Advances in CLIP Technologies for Studies of Protein-RNA Interactions.pdf](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/files/?p=%2FRBP-RNA%20interaction%2Freview%2F2018%20Mol%20Cell%20-%20Advances%20in%20CLIP%20Technologies%20for%20Studies%20of%20Protein-RNA%20Interactions.pdf)
+* 2018 Mol Cell - Advances in CLIP Technologies for Studies of Protein-RNA Interactions.pdf
 * 2018 Annual Reviews - Data Science Issues in Studying Protein–RNA Interactions with CLIP Technologies 
 
 **Research**
