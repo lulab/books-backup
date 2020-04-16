@@ -17,12 +17,13 @@ description: Literature Recommendations
 
 ## I. Reviews of Liquid Biopsy
 
-* [2020 Science - The biology, function, and biomedical applications of exosomes](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=%2FReview%2F2020%20-%20Science%20-%20The%20biology%2C%20function%2C%20and%20biomedical%20applications%20of%20exosomes.pdf)
-* 2018 Nature Reviews Genetics - **Current and future perspectives of liquid biopsies in genomics-driven oncology**
+* 2020 Science - The biology, function, and biomedical applications of exosomes
+* 2019 Cell - Review - The Role of **Non-coding RNAs** in Oncology
+* 2018 Nature Reviews Genetics - Current and future perspectives of liquid biopsies in genomics-driven oncology
 * 2018 Nat Rev Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
-* 2018 NEJM - [Circulating Extracellular Vesicles in Human Disease](https://www.nejm.org/doi/full/10.1056/NEJMra1704286?query=nejmyxqy) \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1704286)\)
-* 2018 NEJM - [Application of Cell-free DNA Analysis to Cancer Treatment](https://www.nejm.org/doi/full/10.1056/NEJMra1706174?query=nejmyxqy) \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174)\)
-* 2018 NEJM - [Sequencing of circulating cell-free dna during pregnancy](https://www.nejm.org/doi/full/10.1056/NEJMra1705345?query=nejmyxqy) \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)\)
+* 2018 NEJM - Circulating Extracellular Vesicles in Human Disease \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1704286)\)
+* 2018 NEJM - Application of Cell-free DNA Analysis to Cancer Treatment \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174)\)
+* 2018 NEJM - Sequencing of circulating cell-free dna during pregnancy \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)\)
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
