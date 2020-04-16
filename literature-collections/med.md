@@ -17,13 +17,13 @@ description: Literature Recommendations
 
 ## I. Reviews of Liquid Biopsy
 
-* 2020 Science - The biology, function, and biomedical applications of exosomes
+* 2020 Science - The biology, function, and biomedical applications of **exosomes**
 * 2019 Cell - Review - The Role of **Non-coding RNAs** in Oncology
-* 2018 Nature Reviews Genetics - Current and future perspectives of liquid biopsies in genomics-driven oncology
+* 2018 Nature Reviews Genetics - Current and future perspectives of **liquid biopsies** in **genomics**-driven oncology
 * 2018 Nat Rev Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
 * 2018 NEJM - Circulating Extracellular Vesicles in Human Disease \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1704286)\)
-* 2018 NEJM - Application of Cell-free DNA Analysis to Cancer Treatment \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174)\)
-* 2018 NEJM - Sequencing of circulating cell-free dna during pregnancy \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)\)
+* 2018 NEJM - Application of **Cell-free DNA** Analysis to Cancer Treatment \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1706174)\)
+* 2018 NEJM - Sequencing of circulating cell-free dna during **pregnancy** \([翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)\)
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
