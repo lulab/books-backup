@@ -30,6 +30,7 @@ description: Literature Recommendations
 ## II. Representative Studies of Liquid Biopsy
 
 * **mbDNA \(**Microbiome of cfDNA\): 2020 Nature - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+* **ctDNA** - 2020 Nature - Integrating genomic features for noninvasive early lung cancer detection
 * **cfDNA Fragment size**: 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA+Protein**: 2018 Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA Methylation**: 2018 Nature - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
@@ -75,6 +76,7 @@ description: Literature Recommendations
 * **long exoRNA-seq**: Clinical chemistry 2019 - Extracellular Vesicles Long RNA Sequencing Reveals Abundant mRNA, circRNA, and lncRNA in Human Blood as Potential Biomarkers for Cancer Diagnosis
 * **ncRNA domain \(small cfRNA-seq\)**: Clinical chemistry 2019 - Lu - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
 * **mRNA/lncRNA fragments**: EMBO J. 2019 - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
+* **RNA**: 2020 - Current Biology - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
 
