@@ -38,6 +38,7 @@ description: Literature Recommendations
 * **ctDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+** 
+  * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA Methylation**
