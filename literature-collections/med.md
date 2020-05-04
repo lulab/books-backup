@@ -38,11 +38,10 @@ description: Literature Recommendations
   * **ctDNAmet:** _**2020 Analysis of Oncology**_ - Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
 * **cfDNA Fragment size**: _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
   * _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
-* **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
+* \*\*\*\*
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
@@ -76,8 +75,9 @@ description: Literature Recommendations
 #### 2.1 Representative papers
 
 * **MISC**
-  * **mRNA/lncRNA fragments**: EMBO J. 2019 - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
-* **Lu Lab**
+  * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
+  * **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
+* **Lu Z.J. Lab**
   * **structured ncRNA domain \(small cfRNA-seq\)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
   * **lncRNA:**  _**2017 Nature Communications** -_ Recurrently deregulated lncRNAs in hepatocellular carcinoma. 
   * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
@@ -96,21 +96,20 @@ description: Literature Recommendations
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Fan J. Lab**
   * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
+* **ERCC**  \(_**2019 Cell papers**_\)
+  * **exceRpt**: Cell system 2019 - exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling
+  * **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
+  * **ERCC perspective**: Cell perspective 2019 - The Extracellular RNA Communication Consortium: Establishing Foundational Knowledge and Technologies for Extracellular RNA Research
+  * **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
+  * **Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
+  * **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
+  * **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
+  * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list) of ERCC papers
 
-#### 2.2 ERCC 2019 Cell papers
 
-* **exceRpt**: Cell system 2019 - exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling
-* **Extracellular carriers**: Cell minireview 2019 - Mapping Extracellular RNA Sheds Lights on Distinct Carriers
-* **ERCC perspective**: Cell perspective 2019 - The Extracellular RNA Communication Consortium: Establishing Foundational Knowledge and Technologies for Extracellular RNA Research
-* **Exosome preview**: Cell preview 2019 - Explicating Exosomes: Reclassifying the Rising Stars of Intercellular Communication
-* **Exosome composition**: Cell article 2019 - Reassessment of Exosome Composition
-* **exRNA carriers**: Cell resource 2019 - exRNA Atlas Analysis Reveals Distinct Extracellular RNA Cargo Types and Their Carriers Present across Human Biofluids
-* **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
-* **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
-
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list)
 
 ### 3. exRNA-seq Technologies <a id="wetlab"></a>
 
@@ -148,15 +147,15 @@ description: Literature Recommendations
 
 #### 4.1 ctDNA Mutations/Fragments <a id="ctDNA"></a>
 
-* 2019 Nature Medicine - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
+* _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list)
 
 #### 4.2 cfDNA Methylation
 
-* **chips**: Nature 2018 - DNA methylation-based classification of central nervous system tumours
-* **meDIP**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **WGBS**: Nature Genetics 2017 - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
+* **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
+* **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **WGBS**: _**2017 Nature Genetics**_ - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
 
