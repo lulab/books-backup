@@ -48,7 +48,7 @@ description: Literature Recommendations
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list) of ctDNA/cfDNA papers
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of exRNA/cfRNA papers
 
 ### 2. exRNA/cfRNA <a id="exRNA"></a>
@@ -70,7 +70,7 @@ description: Literature Recommendations
 * **Quake S. Lab**
   * **long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
-* **Wurdinger T.** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
+* **Wurdinger T.** :  
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
 * **Fan J. Lab**
@@ -86,7 +86,8 @@ description: Literature Recommendations
   * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list) of exRNA/cfRNA papers
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list) of ERCC papers
+
+
 
 ### 3. ctDNA/cfDNA <a id="other"></a>
 
@@ -105,6 +106,8 @@ description: Literature Recommendations
   * **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
   * **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
   * **WGBS**: _**2017 Nature Genetics**_ - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
+
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
 
 ## III. exRNA-seq Technologies
 
