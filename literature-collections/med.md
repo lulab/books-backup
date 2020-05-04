@@ -27,52 +27,31 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
-## II. Representative Studies of Liquid Biopsy
+## II.  Research in Liquid Biopsy
 
-* **Papadopoulos N Lab**
-  * **ctDNA+PET-CT**: _**2020 Science**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
-  * **ctDNA+Protein**: _**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **mbDNA \(**Microbiome of cfDNA\): _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
-* **ctDNA:** _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
-* **Grail and CCGA Consortium**
-  * **ctDNAmet:** _**2020 Analysis of Oncology**_ - Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
-* **cfDNA Fragment size**: _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
-* **cfDNA Methylation**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
-  * _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
-  * _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
-* \*\*\*\*
+### 1. Representative  Studies
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
+> **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
-## III. Detailed Studies of Liquid Biopsy
+* **ctDNA - mbDNA \(**Microbiome of cfDNA\) 
+  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+* **ctDNA - Fragment Size** 
+  * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+* **ctDNA - Mutations +** 
+  * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
+  * **CancerSEEK \(ctDNA+Protein\)**: _**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **ctDNA Methylation**
+  * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **exRNA/cfRNA**  
+  * **Exosome Composition**: _**2019 Cell**_  - Reassessment of Exosome Composition
+  * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 
-### 1. Biomarker Panel Studies <a id="panel"></a>
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list) of ctDNA/cfDNA papers
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of exRNA/cfRNA papers
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
-
-#### 1.1 Meta-analysis Studies <a id="meta"></a>
-
-* **protein markers**: 2016 Lancet Neurol - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
-* **DNA markers**: 2014 Nat Genetics - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
-* **lncRNA markers**: 2005 Cancer Res. - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
-
-#### 1.2 Detection and Early Diagnosis
-
-* **ctDNA+Protein \(CancerSEEK\)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
-
-#### 1.3 Prognosis Studies
-
-* **Progosis ctDNA**: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
-* **Prognosis ctDNA**: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
-* **Prognosis ctDNA**: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
-* **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
-* **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
-
-### 2. exRNA/cfRNA Studies <a id="exRNA"></a>
-
-#### 2.1 Representative papers
+### 2. exRNA/cfRNA <a id="exRNA"></a>
 
 * **MISC**
   * **mRNA/lncRNA fragments**: _**2019 EMBO J.**_  - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
@@ -90,7 +69,7 @@ description: Literature Recommendations
   * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
 * **Quake S. Lab**
   * **long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-  * **long cfRNA-seq**: _**2017Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
+  * **long cfRNA-seq**: _**2017 Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
 * **Wurdinger T.** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
@@ -106,18 +85,30 @@ description: Literature Recommendations
   * **Small exRNA-seq**: Cell resource 2019 - Small RNA Sequencing across Diverse Biofluids Identifies Optimal Methods for exRNA Isolation
   * **Exosome PD-L1**: Cell article 2019 - Suppression of Exosomal PD-L1 Induces Systemic Anti-tumor Immunity and Memory
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list) of exRNA/cfRNA papers
 > * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ERCC%202019%20Cell%20papers&mode=list) of ERCC papers
 
+### 3. ctDNA/cfDNA <a id="other"></a>
 
+* **ctDNA - mbDNA \(**Microbiome of cfDNA\)
+  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+* **ctDNA - Fragment-Size**
+  * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+* **ctDNA - Mutations+**  \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list) \)
+  * **Papadopoulos N Lab**
+    * **ctDNA+PET-CT**: _**2020 Science**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
+    * **CancerSEEK \(ctDNA+Protein\)**: _**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+  * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
+  * _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
+* **ctDNA Methylation \(** [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list) **\)**
+  * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+  * **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
+  * **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+  * **WGBS**: _**2017 Nature Genetics**_ - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
 
-### 3. exRNA-seq Technologies <a id="wetlab"></a>
+## III. exRNA-seq Technologies
 
-#### 3.1 Comparison of differnt liquid biopsy tech.
-
-* [Comparison table](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)
-
-#### 3.2 exRNA-seq technologies
+### 1. Protocols & Technologies
 
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
@@ -130,7 +121,7 @@ description: Literature Recommendations
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
-#### 3.3 Commercial exRNA-seq library construction kit manual
+### 2. Commercial Kit 
 
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
@@ -143,23 +134,30 @@ description: Literature Recommendations
 
 ###  <a id="drylab"></a>
 
-### 4. ctDNA <a id="other"></a>
+## IV. Biomarker Panel Studies
 
-#### 4.1 ctDNA Mutations/Fragments <a id="ctDNA"></a>
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
-* _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
+### 1. Meta-analysis
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list)
+* **protein markers**: 2016 Lancet Neurol - CSF and blood biomarkers for the diagnosis of Alzheimer's disease- a systematic review and meta-analysis
+* **DNA markers**: 2014 Nat Genetics - Large-scale genetic study in East Asians identifies six new loci associated with colorectal cancer risk
+* **lncRNA markers**: 2005 Cancer Res. - Identification of GATA3 as a Breast Cancer Prognostic Marker by Global Gene Expression Meta-analysis
 
-#### 4.2 cfDNA Methylation
+### 2. Detection and Diagnosis
 
-* **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
-* **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **WGBS**: _**2017 Nature Genetics**_ - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA
+* **ctDNA+Protein \(CancerSEEK\)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
+### 3. Prognosis 
 
-## IV. Cancer Immunology
+* **Progosis ctDNA**: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
+* **Prognosis ctDNA**: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
+* **Prognosis ctDNA**: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
+* **Prognosis ctDNA**：2019 JAMA Oncology - Circulating Tumor DNA Analyses as Markers of Recurrence Risk and Benefit of Adjuvant Therapy for Stage III Colon Cancer
+* **Liquid vs. tissue biopsy**： 2019 Nature Medicine - Liquid versus tissue biopsy for detecting acquired resistance and tumor heterogeneity in gastrointestinal cancers
+
+## V. Cancer Immunology
 
 * 2019 - Nat Genetics - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
 * 2018 - Nat Biotech - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
