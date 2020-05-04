@@ -33,18 +33,18 @@ description: Literature Recommendations
 
 > **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
-* **ctDNA - mbDNA \(**Microbiome of cfDNA\) 
+* **cfDNA - mbDNA \(**Microbiome of cfDNA\) 
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
-* **ctDNA - Fragment Size** 
+* **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+** 
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2020 Science -**_ **ctDNA+PET-CT -** Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
   * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **ctDNA Methylation**
+* **ctDNA - Methylation**
   * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **exRNA/cfRNA**  
+* **cfRNA/exRNA**  
   * **Exosome Composition \(ERCC\)**: _**2019 Cell**_  - Reassessment of Exosome Composition
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
@@ -92,9 +92,9 @@ description: Literature Recommendations
 
 ### 3. ctDNA/cfDNA <a id="other"></a>
 
-* **ctDNA - mbDNA \(**Microbiome of cfDNA\)
+* **cfDNA - mbDNA \(**Microbiome of cfDNA\)
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
-* **ctDNA - Fragment-Size**
+* **cfDNA - Fragment-Size**
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+**  \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/ctDNA&mode=list) \)
   * **Papadopoulos N Lab**
@@ -102,7 +102,7 @@ description: Literature Recommendations
     * _**2018 Science -**_ **ctDNA+Protein\(CancerSEEK\)** - Detection and localization of surgically resectable cancers with a multi-analyte blood test
   * _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
   * _**2019 Nature Medicine**_ - Utility of ctDNA to support patient selection for early phase clinical trials: the TARGET study
-* **ctDNA Methylation \(** [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list) **\)**
+* **ctDNA - Methylation \(** [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list) **\)**
   * _**2020 Analysis of Oncology**_ - **Grail and CCGA Consortium -** Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
   * **chips**: _**2018 Nature**_ - DNA methylation-based classification of central nervous system tumours
   * **meDIP**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
