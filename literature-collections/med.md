@@ -29,16 +29,20 @@ description: Literature Recommendations
 
 ## II. Representative Studies of Liquid Biopsy
 
-* **mbDNA \(**Microbiome of cfDNA\): 2020 Nature - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
-* **ctDNA** - 2020 Nature - Integrating genomic features for noninvasive early lung cancer detection
-* **cfDNA Fragment size**: 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
-* **ctDNA+Protein**: 2018 Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
-* **cfDNA Methylation**: 2018 Nature - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **cfRNA**: 2018 Science - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+* **Papadopoulos N Lab**
+  * **ctDNA+PET-CT**: _**2020 Science**_ Feasibility of blood testing combined with PET-CT to screen for cancer and guide intervention
+  * **ctDNA+Protein**: _**2018 Science**_ - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **mbDNA \(**Microbiome of cfDNA\): _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+* **ctDNA:** _**2020 Nature**_ - Integrating genomic features for noninvasive early lung cancer detection
+* **Grail and CCGA Consortium**
+  * **ctDNAmet:** _**2020 Analysis of Oncology**_ - Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA
+* **cfDNA Fragment size**: _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
+* **cfDNA Methylation**: _**2018 Nature**_ - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
+* **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
-  * 2015 Cancer Cell - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
-  * 2017 Cancer Cell - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
-* **exRNA Components**: 2017 Nature Communication - Coding and noncoding landscape of extracellular RNA
+  * _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
+* **exRNA Components**: _**2017 Nature Communication**_ - Coding and noncoding landscape of extracellular RNA
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
