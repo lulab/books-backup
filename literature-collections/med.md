@@ -34,7 +34,7 @@ description: Literature Recommendations
 * **cfDNA Fragment size**: 2019 Nature - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA+Protein**: 2018 Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA Methylation**: 2018 Nature - Sensitive tumour detection and classification using plasma cell-free DNA methylomes
-* **cfRNA/exRNA**: 2018 Science - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+* **cfRNA**: 2018 Science - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **Platelet RNA** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
   * 2015 Cancer Cell - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
   * 2017 Cancer Cell - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
@@ -71,12 +71,27 @@ description: Literature Recommendations
 
 #### 2.1 Representative papers
 
-* **miRNA7**: JCO 2011 - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
-* **long cfRNA-seq**: Clinical chemistry 2017 - Quake - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
-* **long exoRNA-seq**: Clinical chemistry 2019 - Extracellular Vesicles Long RNA Sequencing Reveals Abundant mRNA, circRNA, and lncRNA in Human Blood as Potential Biomarkers for Cancer Diagnosis
-* **ncRNA domain \(small cfRNA-seq\)**: Clinical chemistry 2019 - Lu - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
-* **mRNA/lncRNA fragments**: EMBO J. 2019 - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
-* **RNA**: 2020 - Current Biology - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
+* **MISC**
+  * **mRNA/lncRNA fragments**: EMBO J. 2019 - Phospho‐RNA‐seq: a modified small RNA‐seq method that reveals circulating mRNA and lncRNA fragments as potential biomarkers in human plasma
+* **Lu Lab**
+  * **structured ncRNA domain \(small cfRNA-seq\)**: _**2019 Clinical chemistry**_  - Noncoding RNAs serve as diagnosis and prognosis biomarkers for hepatocellular carcinoma
+  * **lncRNA:**  _**2017 Nature Communications** -_ Recurrently deregulated lncRNAs in hepatocellular carcinoma. 
+  * **Prospective Review**: _**2017 Noncoding RNA**_ - RNA Biomarkers: Frontier of Precision Medicine for Cancer
+* **Fudan Group \(**Shenglin Huang Lab + Peng Wang Lab**\)**
+  * **long evRNA-seq**: _**2020 GUT**_ Plasma extracellular vesicle long RNA profiling identifies a diagnostic signature for the detection of pancreatic ductal adenocarcinoma
+  * **long evRNA-seq**: _**2019 Clinical Chemistry**_ - Extracellular Vesicles Long RNA Sequencing Reveals Abundant mRNA, circRNA, and lncRNA in Human Blood as Potential Biomarkers for Cancer Diagnosis
+  * **exoRBase:** _**2018 NAR**_ - exoRBase: a database of circRNA, lncRNA and mRNA in human blood exosomes
+* **Zhong S. Lab**
+  * **cfRNA**: _**2020 Current Biology**_ - Presymptomatic increase of an extracellular RNA in blood plasma is associated with the development of Alzheimer’s disease
+  * **SILVER-seq**: _**2019 PNAS**_ - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
+* **Quake S. Lab**
+  * **long cfRNA-seq**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
+  * **long cfRNA-seq**: _**2017Clinical chemistry**_ - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
+* **Wurdinger T.** \( [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list) \):  
+  * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
+  * **Platelet RNA:** _**2017 Cancer Cell**_ - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets
+* **Fan J. Lab**
+  * **miRNA7**: _**2011 JCO**_ - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA&mode=list)
 
