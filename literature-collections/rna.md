@@ -95,6 +95,21 @@ Data about RBP-RNA interaction
   * [RiboTaper](https://www.ncbi.nlm.nih.gov/pubmed/26657557): 2016 _Nature Methods_
 * Difference of Translation Efficiency
   * [RiboDiff](https://www.ncbi.nlm.nih.gov/pubmed/27634950): 2017 _Bioinformatics_ 
+  * [Xtail](https://pubmed.ncbi.nlm.nih.gov/27041671/): 2016 _Nature Communications_
+
+| Preprocessing | ORF Iden. | Quantification TE | Translation elongation | Integrative & visualization |
+| :--- | :--- | :--- | :--- | :--- |
+| Rfoot | DeepRibo | scikit-ribo | diricore | Plastid |
+| RiboWaltz | FLOSS | **RiboDiff** | Iχnos | Rfeet |
+| **RiboWave** | ORF-RATER | riborex | PausePred | RiboGalaxy |
+|  | PRICE | \*\*\*\*[**Xtail**](https://pubmed.ncbi.nlm.nih.gov/27041671/)\*\*\*\* | ROSE | RiboProfiling |
+|  | RiboCode |  | RiboMiner | riboSeqR |
+|  | RiboHMM |  |  | RiboTools |
+|  | RibORF |  |  | RIVIT |
+|  | **RiboTaper** |  |  | Shoelaces |
+|  | RP-BP |  |  | tRanslatome |
+|  | SPECtre |  |  | \*\*\*\*[**POSTAR**](http://lulab.life.tsinghua.edu.cn/postar/)\*\*\*\* |
+|  | TITER |  |  |  |
 
 [PDFs and PPTs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboseq&mode=list)
 
