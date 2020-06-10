@@ -35,7 +35,8 @@ description: Literature Recommendations
 > **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
 * **cfDNA - mbDNA \(**Microbiome of cfDNA\) 
-  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach  ****
+  * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
+  * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
 * **cfDNA - Fragment Size** 
   * _**2019 Nature**_ - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **ctDNA - Mutations+** 
