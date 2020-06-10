@@ -17,6 +17,7 @@ description: Literature Recommendations
 
 ## I. Reviews of Liquid Biopsy
 
+* 2020 Nature Reviews - **RNA** delivery by **extracellular vesicles** in mammalian cells and its applications
 * 2020 Science - The biology, function, and biomedical applications of **exosomes**
 * 2019 Cell - Review - The Role of **Non-coding RNAs** in Oncology
 * 2018 Nature Reviews Genetics - Current and future perspectives of **liquid biopsies** in **genomics**-driven oncology
