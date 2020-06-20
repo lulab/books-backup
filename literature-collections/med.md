@@ -14,6 +14,8 @@ description: Literature Recommendations
 * 开启肿瘤早筛新纪元，液态活检蓄势待发 \( [Everhub](https://www.yinxiang.com/everhub/note/d1062a1d-14a8-4e8c-af9b-70aa808715da); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) \)
 * 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版 \( [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list) \)
 * **Patents:** 2019 - Nature Biotech. - Recent patents in cancer detection \( [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FBiomarker%20Panel%2FPatents&mode=list) \)
+* [Collections](https://www.cell.com/consortium/exRNA) of exRNA Consortium \(ERCC\) @ _Cell_
+* [Outlook collection](https://www.nature.com/collections/hibdgeeijf) of _Nature_ \([Could tracking RNA in body fluids reveal disease?](https://www.nature.com/articles/d41586-020-01763-1) \)
 
 ## I. Reviews of Liquid Biopsy
 
