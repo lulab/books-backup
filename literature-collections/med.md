@@ -21,6 +21,7 @@ description: Literature Recommendations
 
 * 2020 Nature Reviews - **RNA** delivery by **extracellular vesicles** in mammalian cells and its applications
 * 2020 Science - The biology, function, and biomedical applications of **exosomes**
+* 2020 Genome Biology - The promise and challenge of cancer **microbiome** research
 * 2019 Cell - Review - The Role of **Non-coding RNAs** in Oncology
 * 2018 Nature Reviews Genetics - Current and future perspectives of **liquid biopsies** in **genomics**-driven oncology
 * 2018 Nat Rev Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
@@ -36,7 +37,7 @@ description: Literature Recommendations
 
 > **Comparison of different liquid biopsy tech. :**   [**Comparison Table**](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/liquid%20biopsy%20tech%20comparison.pptx)\*\*\*\*
 
-* **Microbes**  
+* **Microbiome of Cancer**  
   * _**2020 Nature**_ - Microbiome analyses of blood and tissues suggest cancer diagnostic approach 
   * _**2020 Science**_ - The human tumor microbiome is composed of tumor type–specific intracellular bacteria
   * _**2020 Cell**_ - A Viral Exposure Signature Defines Early Onset of Hepatocellular Carcinoma
@@ -56,8 +57,9 @@ description: Literature Recommendations
   * **cfRNA**: _**2018 Science**_ - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
   * **Platelet RNA:** _**2015 Cancer Cell**_ - RNA-Seq of Tumor-Educated Platelets Enables Blood-Based Pan-Cancer, Multiclass, and Molecular Pathway Cancer Diagnostics
 
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of ctDNA/cfDNA papers
-> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of exRNA/cfRNA papers
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfDNA&mode=list) of cfDNA/ctDNA
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FcfRNA&mode=list) of cfRNA/exRNA
+> * [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=%2FCancer%20Microbiome&mode=list) of Cancer Microbiome
 
 ### 2. exRNA/cfRNA <a id="exRNA"></a>
 
