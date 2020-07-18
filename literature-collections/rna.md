@@ -123,8 +123,9 @@ Data about RBP-RNA interaction
 
 ### RiboShape
 
-* 2018 Zhang, Yan, et al. “A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation.” Molecular cell 70.2 \(2018\): 274-286.
-* 2018 Mustoe, Anthony M., et al. "Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing." Cell 173.1 \(2018\): 181-195.
+* 2018 _Cell_ - Pervasive regulatory functions of mRNA structure revealed by high-resolution SHAPE probing
+* 2018 _Mol. Cell_ - A Stress Response that Monitors and Regulates mRNA Structure Is Central to Cold Shock Adaptation
+* 2020 _Genome Biology_ - RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function
 * **sequence motif in plant**: 2017 Nature - Global translational reprogramming is a fundamental layer of immune regulation in plants
 
 [PDFs](https://cloud.tsinghua.edu.cn/d/759f79f0a9c24fb7aab4/?p=/Riboshape&mode=list)
